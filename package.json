@@ -1,0 +1,22 @@
+{
+  "name": "quote-a-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinothvedhik/quote-a-day.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinothvedhik/quote-a-day/issues"
+  },
+  "homepage": "https://github.com/vinothvedhik/quote-a-day#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
